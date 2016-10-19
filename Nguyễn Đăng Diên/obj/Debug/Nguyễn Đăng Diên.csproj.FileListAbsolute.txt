@@ -1,0 +1,9 @@
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\bin\Debug\Nguyễn Đăng Diên.exe.config
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\bin\Debug\Nguyễn Đăng Diên.exe
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\bin\Debug\Nguyễn Đăng Diên.pdb
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\Nguyễn Đăng Diên.csprojResolveAssemblyReference.cache
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\phototool.Form1.resources
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\Nguyễn_Đăng_Diên.Properties.Resources.resources
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\Nguyễn Đăng Diên.csproj.GenerateResource.Cache
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\Nguyễn Đăng Diên.exe
+C:\Users\DIEN\Desktop\Nguyễn Đăng Diên\Nguyễn Đăng Diên\obj\Debug\Nguyễn Đăng Diên.pdb
